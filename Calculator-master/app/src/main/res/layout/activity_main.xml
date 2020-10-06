@@ -397,7 +397,6 @@
             android:layout_height="match_parent"
             android:layout_margin="1dp"
             android:layout_weight="0.25"
-            android:onClick="onClick"
             android:text="="
             android:textColor="#05090B"
             android:textSize="30sp" />
